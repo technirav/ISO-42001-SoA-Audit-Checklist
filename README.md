@@ -8,8 +8,11 @@ The checklist has been created based on practical experience across gap assessme
 
 This resource is intended to:
 Provide a practical reference for developing ISO/IEC 42001 SoA
+
 Support gap assessments and internal reviews
+
 Offer an auditor-aligned perspective on control applicability
+
 Improve consistency in AI governance and compliance practices
 
 **Scope**
@@ -17,7 +20,9 @@ Improve consistency in AI governance and compliance practices
 The checklist goes beyond a standard control listing by incorporating:
 
 Control applicability considerations
+
 Implementation insights
+
 Audit-relevant viewpoints
 
 **Usage**
@@ -25,7 +30,9 @@ Audit-relevant viewpoints
 This checklist can be used by:
 
 Organizations preparing for ISO/IEC 42001 certification
+
 Internal audit and compliance teams
+
 Consultants and practitioners working on AI governance frameworks
 
 **Disclaimer**
