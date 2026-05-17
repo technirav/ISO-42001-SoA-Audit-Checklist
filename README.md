@@ -1,7 +1,9 @@
 **ISO/IEC 42001 SoA Control Checklist**
 
 This repository contains a structured Statement of Applicability (SoA) control checklist aligned with ISO/IEC 42001, developed to support organizations in AI management system implementation and audit readiness.
-Background
+
+**Background**
+
 The checklist has been created based on practical experience across gap assessments, implementation projects, and audit engagements. It reflects common challenges faced by organizations in interpreting control requirements and preparing an effective SoA that meets auditor expectations.
 
 **Purpose**
